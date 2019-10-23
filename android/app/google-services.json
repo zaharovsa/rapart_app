@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120642470590",
+    "firebase_url": "https://rapart-b4752.firebaseio.com",
+    "project_id": "rapart-b4752",
+    "storage_bucket": "rapart-b4752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120642470590:android:6df13a9a20ad78d33394ef",
+        "android_client_info": {
+          "package_name": "ru.apartexpert.rapart.rapart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120642470590-d01v73fh9su0vt3kgs94v35pftfsam38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEjD1T2JLjq1SV66ocWs6Wg2uuycpmcy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120642470590-d01v73fh9su0vt3kgs94v35pftfsam38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
